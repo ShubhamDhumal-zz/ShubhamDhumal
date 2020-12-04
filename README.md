@@ -3,6 +3,7 @@ I' m Shubham from India and I'm currently learning different languages. I enjoy 
 
 ### Skills
 * 💻 **HTML, CSS**
+[* <img src="https://www.cleanpng.com/free/java-logo.html" alt='java' height='40'>] **JAVA**
 
 - 🌱 **I’m currently learning BSC IT**
 
