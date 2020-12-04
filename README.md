@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Shubham Dhumal
-I' m Shubham from India and I'm currently learning different languages. I enjoy learning different languages.
+I' m Shubham from India and I'm currently learning different languages. I enjoy coding and learning different languages.
 
 ### Skills
-* 💻 HTML, CSS
+* 💻 **HTML, CSS
 
 - 🌱 **I’m currently learning BSC IT**
 
